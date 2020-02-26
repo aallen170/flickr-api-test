@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@zalando/oauth2-client-js": "0.0.18",
+    "flickr-sdk": "^3.9.0",
+    "jso": "^4.1.1",
+    "md5": "^2.2.1"
+  }
+}
